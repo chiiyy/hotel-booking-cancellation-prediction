@@ -52,8 +52,8 @@ Some feature engineering steps include:
 
 The best result was achieved using the **Random Forest** model.
 
-- **Decision Tree Accuracy:** 84.35%
-- **Random Forest Accuracy:** 88.23%
+- **Decision Tree Accuracy:** 84.37%
+- **Random Forest Accuracy:** 88.26%
 
 ## Key Insight
 
